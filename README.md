@@ -37,8 +37,4 @@ Make sure the following libraries are installed (usually preinstalled in Kaggle)
 
  
 
-## 📧 Author
-
-Thota Gokaramaiah  
-IIITDM Kurnool  
-For questions or collaborations, please reach out via your academic email.
+ 
